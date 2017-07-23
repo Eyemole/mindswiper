@@ -1,4 +1,5 @@
-# mindswiper
+# Mindswiper  
+## (because dating is a minefield)
 Swipe on Tinder left or right with the power of your mind. Requires a [Muse headset](http://www.choosemuse.com/).  
 
 ## How to Use:  
